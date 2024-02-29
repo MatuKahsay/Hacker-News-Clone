@@ -35,15 +35,19 @@ Start the development server:
 Usage
 
 Navigate through the application to view the top, new, and best stories from Hacker News. Click on any story to be redirected to the full article.
+
 Customization
 
 Tailwind CSS allows you to customize the theme to fit your preferences. Modify the tailwind.config.js file to change the color scheme, font sizes, and other styles.
+
 Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue for any bugs, features, or improvements.
+
 License
 
 This project is open-sourced under the MIT License. See the LICENSE file for more details.
+
 Acknowledgments
 
     Hacker News for providing the data used in this project.
